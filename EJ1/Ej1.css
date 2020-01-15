@@ -1,0 +1,42 @@
+body{
+	background-color:#ffffff;
+}
+
+.encabezado{
+	padding-top: 25%;
+	color:#ffffff;
+}
+
+.main {
+	width: 700px;
+	padding: 10px;
+	margin: 0 auto;
+	font-family: Arial;
+	
+
+}
+
+.title{
+	background-color: #33BEBE;
+	color: white;
+	padding: 10px 15px 0px;
+
+}
+
+.Imagenes{
+
+	padding: 15px 0px 0px;
+	height: 0px;
+
+	
+}
+
+.text {
+	display: flex;
+	padding: 0px;
+	border: 0 auto; 
+	color: #7C8B88;
+	padding: 0px 0px 0px 340px;
+	text-align: justify;
+}
+

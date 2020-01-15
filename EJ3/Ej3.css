@@ -1,0 +1,83 @@
+body{
+	width: 1330px;
+	background-color: white;
+	font-family: arial;
+	margin: 0 auto;
+
+}
+
+.title {
+
+	width: 1330px;
+	padding: 0px 0px 0px;
+}
+
+.title p{
+	margin:0 auto;
+}
+
+.title h1{
+	margin: 0 auto;
+	font-size: xx-large;
+
+}
+
+.encabezado{
+	padding: 50px 0px 0px;
+	width: 1180px;
+	display: inline-block;
+	vertical-align: top;
+	text-align: right;
+	color: 747704;
+	line-height: 1.5;
+	font-weight:normal;
+}
+
+.images{
+	width: 1330px;
+	height: 400px;
+}
+
+.title2 h2{
+	color: #BCBBBB;
+	font-size: 45px ;
+	margin: 10px;
+}
+
+.contenedor img{
+	width: 340px;
+	display:block;
+	margin:auto;
+}
+
+.tarjet{
+	display: inline-block;
+	color: #BCBBBB;
+	
+}
+.flowers{
+	display: inline-block;
+	padding: 0px 150px;
+	color: #BCBBBB;
+}
+.stars{
+	display: inline-block;
+	color: #BCBBBB;
+	
+}
+
+.contenedor h2{
+	font-size: 40px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.contenedor p{
+	font-size: 18px;
+	margin: 0 auto;
+	padding: 0px 0px 0px 0px;
+	text-align: center;
+}
+
+
+
